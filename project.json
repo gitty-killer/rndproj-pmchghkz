@@ -1,6 +1,6 @@
 {
-  ""name"": ""rndproj-pmchghkz"",
-  ""goal"": ""index builder for telemetry"",
-  ""language"": ""node"",
-  ""template"": ""node-cli""
+    "name":  "rndproj-pmchghkz",
+    "goal":  "index builder for telemetry",
+    "language":  "node",
+    "template":  "node-cli"
 }
