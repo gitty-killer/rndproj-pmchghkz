@@ -1,4 +1,2 @@
-# rndproj-pmchghkz
-
-Random c project for playground.
-
+# rndproj-pmchghkz\n\nSmall CLI tool for text cleanup and formatting.\n
+New-FileDef
